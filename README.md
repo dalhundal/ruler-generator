@@ -21,7 +21,7 @@ Basic usage
         width: 1000,
         tickInterval: 100,
         tickParts: 4
-    })
+    });
     
 Will generate a rule 1000px wide, with a major tick every 100px and a minor tick every 25px (100/4).
 
